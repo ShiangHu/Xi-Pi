@@ -1,6 +1,6 @@
 # XiPi toolbox
 
-[shiang Hu](https://github.com/ShiangHu), [zhihao Zhang](https://github.com/annie-jpg), [BRAIT-LAB](https://shianghu.github.io/lab)
+[Shiang Hu](https://github.com/ShiangHu), [Zhihao Zhang](https://github.com/annie-jpg), [BRAIT-LAB](https://shianghu.github.io/lab)
 
 [[`Paper`]()] [[`Biorxiv`]()]
 
@@ -77,13 +77,13 @@ The ξ-π algorithm can be:
 * applied to eliminate the impact of aperiodic component.
 
 ## Contributing
-shiang Hu: <br>
-zhihao Zhang: <br>
-jie Ruan: <br>
+Shiang Hu: <br>
+Zhihao Zhang: <br>
+Jie Ruan: <br>
 Pedro A. Valdes-Sosa: 
 
 ## Contributors
-shiang Hu, zhihao Zhang, jie Ruan, Borsh, Pedro A. Valdes-Sosa
+Shiang Hu (shu@adu.edu.cn), Zhihao Zhang (zhihaozhang98@outlook.com), Jie Ruan, Borsh, Pedro A. Valdes-Sosa
 
 ## Acknowledgements
 This work was supported by the NSFC Project Number 62101003. 
