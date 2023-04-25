@@ -4,7 +4,7 @@
 
 [[`Paper`]()] [[`Biorxiv`]()]
 
-The **XiPi(ξ-π) alorithm** separate periodic and aperiodic neural activity **using nonparametric model**. It works in the spectral domain, like FOOOF, IRASA, SpriNt etc.
+The **ξ-π (XiPi) algorithm** separates periodic and aperiodic neural activity **using nonparametric model**. It works in the spectral domain, like FOOOF, IRASA, SpriNt etc.
 
 <p align="center">
   <img src="assets/Structure.png?raw=true"/>
