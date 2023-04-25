@@ -76,14 +76,8 @@ The ξ-π algorithm can be:
 * applied to obtain oscillation features and predict age, disorder etc.
 * applied to eliminate the impact of aperiodic component.
 
-## Contributing
-Shiang Hu: <br>
-Zhihao Zhang: <br>
-Jie Ruan: <br>
-Pedro A. Valdes-Sosa: 
-
 ## Contributors
 Shiang Hu (shu@adu.edu.cn), Zhihao Zhang (zhihaozhang98@outlook.com), Jie Ruan, Borsh, Pedro A. Valdes-Sosa
 
-## Acknowledgements
+## Acknowledgments
 This work was supported by the NSFC Project Number 62101003. 
