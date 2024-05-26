@@ -1,11 +1,11 @@
 # XiPi toolbox
 
-[shiang Hu](https://github.com/ShiangHu), [zhihao Zhang](https://github.com/annie-jpg), [BRAIT-LAB](https://shianghu.github.io/lab)
+[Shiang Hu](https://github.com/ShiangHu), [Zhihao Zhang](https://github.com/annie-jpg), [BRAIT-LAB](https://shianghu.github.io/lab)
 
 [[`Paper`](https://ieeexplore.ieee.org/document/10430394)] [[`Biorxiv`]()]
 **2024-May highlights paper - Journal of Biomedical and Health Informatics** [[`Click this`](https://www.embs.org/jbhi/articles/may-2024-highlights/)]
 
-The **XiPi(ξ-π) alorithm** separate periodic and aperiodic neural activity **using nonparametric model**. It works in the spectral domain, like FOOOF, IRASA, SpriNt etc.
+The **ξ-π (XiPi) algorithm** separates periodic and aperiodic neural activity **using nonparametric model**. It works in the spectral domain, like FOOOF, IRASA, SpriNt etc.
 
 <p align="center">
   <img src="assets/cover.jpg?raw=true"/>
@@ -84,14 +84,9 @@ The ξ-π algorithm can be:
 * applied to obtain oscillation features and predict age, disorder etc.
 * applied to eliminate the impact of aperiodic component.
 
-## Contributing
-shiang Hu: <br>
-zhihao Zhang: <br>
-jie Ruan: <br>
-Pedro A. Valdes-Sosa: 
-
 ## Contributors
-shiang Hu, zhihao Zhang, jie Ruan, Borsh, Pedro A. Valdes-Sosa
+Shiang Hu (shu@adu.edu.cn), Zhihao Zhang (zhihaozhang98@outlook.com), Jie Ruan, Borsh, Pedro A. Valdes-Sosa
+
 
 ## Acknowledgements
 This work was supported by the NSFC Project Number 62101003. 
