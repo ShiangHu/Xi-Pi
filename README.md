@@ -18,7 +18,7 @@ The **XiPi(ξ-π) alorithm** separate periodic and aperiodic neural activity **u
   <img src="assets/GA.jpg?raw=true"/>
 </p>
 <p align="center">
-  Cover Photo
+  Graphic Abstract
 </p>
 
 ## Installation
