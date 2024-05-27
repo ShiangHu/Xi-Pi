@@ -2,15 +2,23 @@
 
 [Shiang Hu](https://github.com/ShiangHu), [Zhihao Zhang](https://github.com/annie-jpg), [BRAIT-LAB](https://shianghu.github.io/lab)
 
-[[`Paper`]()] [[`Biorxiv`]()]
+[[`Paper`](https://ieeexplore.ieee.org/document/10430394)] [[`Biorxiv`]()]
+**2024-May highlights paper - Journal of Biomedical and Health Informatics** [[`Click this`](https://www.embs.org/jbhi/articles/may-2024-highlights/)]
 
 The **ξ-π (XiPi) algorithm** separates periodic and aperiodic neural activity **using nonparametric model**. It works in the spectral domain, like FOOOF, IRASA, SpriNt etc.
 
 <p align="center">
-  <img src="assets/Structure.png?raw=true"/>
+  <img src="assets/cover.jpg?raw=true"/>
 </p>
 <p align="center">
-  The structure of this study
+  **Cover Photo**
+</p>
+
+<p align="center">
+  <img src="assets/GA.jpg?raw=true"/>
+</p>
+<p align="center">
+  **Graphic Abstract**
 </p>
 
 ## Installation
@@ -79,5 +87,6 @@ The ξ-π algorithm can be:
 ## Contributors
 Shiang Hu (shu@adu.edu.cn), Zhihao Zhang (zhihaozhang98@outlook.com), Jie Ruan, Borsh, Pedro A. Valdes-Sosa
 
-## Acknowledgments
+
+## Acknowledgements
 This work was supported by the NSFC Project Number 62101003. 
